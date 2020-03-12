@@ -1,4 +1,4 @@
-# workspace-images
+# Docker-images
 
 Ready-to-use Docker images for [Gitpod](https://www.gitpod.io) workspaces. All images are available on Docker Hub under [gitpod/*](https://hub.docker.com/u/gitpod).
 
