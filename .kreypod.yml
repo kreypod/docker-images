@@ -1,6 +1,6 @@
 # Install packages on the environment based on provided
 packages:
-  - nano
+  - nano # test
 
 # List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/config-ports/
 ports:
